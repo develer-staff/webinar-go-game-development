@@ -38,8 +38,4 @@ durante il webinar.
 
 Dato che nella cartella c'è la versione completa del gioco, non conviene guardarla mentre si
 prova a fare gli esercizi. Conviene invece guardare gli stadi intermedi di sviluppo, che sono
-opportunamente taggati:
-
-* [primo esercizio](https://github.com/develersrl/webinar-go-game-development/tree/shooter-1)
-* [secondo esercizio](https://github.com/develersrl/webinar-go-game-development/tree/shooter-2)
-* [terzo esercizio](https://github.com/develersrl/webinar-go-game-development/tree/shooter-3)
+nelle cartelle `shooter-ex1`, `shooter-ex2` e `shooter-ex3`
